@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(6.666667%,44.705882%,72.156863%);fill-opacity:1;" d="M 9.375 43.75 L 6.25 4.6875 L 43.75 4.6875 L 40.625 43.75 L 25 48.4375 Z M 9.375 43.75 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20%,66.666667%,86.666667%);fill-opacity:1;" d="M 40.625 7.8125 L 25 7.8125 L 25 46.09375 L 37.5 42.1875 Z M 40.625 7.8125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 30.46875 27.34375 L 14.84375 27.34375 L 14.0625 21.875 L 26.5625 17.96875 L 14.0625 17.96875 L 13.28125 13.28125 L 37.5 13.28125 L 36.71875 18.75 L 26.5625 22.65625 L 35.9375 22.65625 L 34.375 37.5 L 25 40.625 L 15.625 37.5 L 14.84375 29.6875 L 19.53125 29.6875 L 20.3125 33.59375 L 25 35.15625 L 29.6875 33.59375 Z M 30.46875 27.34375 "/>
-</g>
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 28L4 3H28L26 28L16 31L6 28Z" fill="#1172B8"/>
+<path d="M26 5H16V29.5L24 27L26 5Z" fill="#33AADD"/>
+<path d="M19.5 17.5H9.5L9 14L17 11.5H9L8.5 8.5H24L23.5 12L17 14.5H23L22 24L16 26L10 24L9.5 19H12.5L13 21.5L16 22.5L19 21.5L19.5 17.5Z" fill="white"/>
 </svg>
