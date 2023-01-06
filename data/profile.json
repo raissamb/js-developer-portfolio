@@ -51,13 +51,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Building a Portfolio with JavaScript (DIO-JavaScript Developer course)",
+      "url": "https://github.com/raissamb/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Building a Pokedex with JavaScript (DIO-JavaScript Developer course)",
+      "url": "https://github.com/raissamb/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Master thesis (Geophysics - UFPA)",
+      "url": "https://github.com/raissamb/Master_thesis",
       "github": true
     }
   ],
