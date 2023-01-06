@@ -51,12 +51,12 @@
   ],
   "portfolio": [
     {
-      "name": "Building a Portfolio with JavaScript (DIO-JavaScript Developer course)",
+      "name": "Building a Portfolio with JS (JS Developer course - DIO)",
       "url": "https://github.com/raissamb/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Building a Pokedex with JavaScript (DIO-JavaScript Developer course)",
+      "name": "Building a Pokedex with JS (JS Developer course - DIO)",
       "url": "https://github.com/raissamb/js-developer-pokedex",
       "github": true
     },
